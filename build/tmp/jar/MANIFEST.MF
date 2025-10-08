@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: hand_labeler
+Specification-Vendor: YourNameHere, OtherNameHere
+Specification-Version: 1
+Implementation-Title: Hand Labeler
+Implementation-Version: 1.0.0
+Implementation-Vendor: YourNameHere, OtherNameHere
+Implementation-Timestamp: 2025-10-08T13:15:57+0300
+
